@@ -15,7 +15,7 @@ export const products = [
     id: 3,
     name: 'Bag',
     price: 299,
-    description: ''
+    description: 'the best'
   }
 ];
 
